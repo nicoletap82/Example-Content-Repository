@@ -3,10 +3,10 @@
   "owners": { "zv3P9es": ["all"] },
   "editors": {},
   "viewers": {
-    "contentstore": ["all"]
+    "contentstore": [""]
   },
   "previewers": { 
-    "contentstore": ["all"]
+    "contentstore": [""]
   },
   "copyright": {
     "license": "MIT"
