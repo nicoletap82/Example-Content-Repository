@@ -3,10 +3,10 @@
   "owners": { "GuqCzvm": ["all"] },
   "editors": {},
   "viewers": {
-    "contentstore": ["nicoleta.plopeanu@ro.ibm.com"]
+    "contentstore": ["all"]
   },
   "previewers": { 
-    "contentstore": ["nicoleta.plopeanu@ro.ibm.com"]
+    "contentstore": ["all"]
   },
   "copyright": {
     "license": "MIT"
