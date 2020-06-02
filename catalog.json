@@ -1,6 +1,6 @@
 {
   "title": "Edge CaaS Example catalog",
-  "owners": { "demo": ["all"] },
+  "owners": { "https://developer.ibm.com/mylearning/l/GuqCzvm": ["all"] },
   "editors": {},
   "viewers": {
     "contentstore": ["all"]
