@@ -1,12 +1,12 @@
 {
   "title": "Edge CaaS Example catalog",
-  "owners": { "https://developer.ibm.com/mylearning/l/GuqCzvm": ["all"] },
+  "owners": { "GuqCzvm": ["all"] },
   "editors": {},
   "viewers": {
-    "contentstore": ["all"]
+    "contentstore": ["nicoleta.plopeanu@ro.ibm.com"]
   },
   "previewers": { 
-    "contentstore": ["all"]
+    "contentstore": ["nicoleta.plopeanu@ro.ibm.com"]
   },
   "copyright": {
     "license": "MIT"
